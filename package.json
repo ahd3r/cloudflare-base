@@ -1,0 +1,9 @@
+{
+  "name": "twoflags-test",
+  "version": "1.0.0",
+  "description": "bla bla bla",
+  "main": "index.js",
+  "scripts": {},
+  "author": "me",
+  "license": "ISC"
+}
